@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.wayne</groupId>
-    <artifactId>mybatisplus_02_dpl</artifactId>
+    <artifactId>mybatisplus_03_dml</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <properties>
         <java.version>17</java.version>

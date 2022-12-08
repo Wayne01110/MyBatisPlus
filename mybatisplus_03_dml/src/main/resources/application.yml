@@ -14,3 +14,12 @@ mybatis-plus:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
   global-config:
     banner: false
+    db-config:
+      id-type: assign_id
+
+
+      table-prefix: tbl_
+      logic-delete-field: deleted
+      logic-not-delete-value: 0
+      logic-delete-value: 1
+
